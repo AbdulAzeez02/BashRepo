@@ -1,4 +1,4 @@
-#! bin bash
+#!/bin/bash
 num=545
 
 # Storing the remainder
